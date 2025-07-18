@@ -60,10 +60,10 @@ The dashboard uses the built-in **Adventure Works** dataset, which includes:
 ## 📊 Dashboard Screenshots
 
 ### 📄 Page 1 – Overall Sales View  
-![](Page1.png)
+![](Page1.PNG)
 
 ### 📄 Page 2 – Regional & Customer Insights  
-![](Page2.png)
+![](Page2.PNG)
 
 ---
 
